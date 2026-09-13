@@ -4,10 +4,17 @@
     <title>Personal Knowledge Management Hub</title>
     <link>https://pkm-obsidian-second-brain-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 13 Sep 2026 08:32:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 14:05:18 GMT</lastBuildDate>
     <atom:link href="https://pkm-obsidian-second-brain-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-        <item>
+            <item>
+      <title>📅 Today's Fresh Pick: Daily Productivity &amp; Automation Hacks (Telegram)</title>
+      <link>https://t.me/productivity_hacks</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/pkm-obsidian-second-brain-hub/#pkm-obsidian-second-brain-hub-telegram-20260913-1-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 14:05:18 GMT</pubDate>
+      <description>Newly verified community added to Personal Knowledge Management Hub: Workflow automation blueprints, API webhooks, Zapier templates, and focus routines.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Obsidian Members Discord (Discord)</title>
       <link>https://discord.gg/obsidian</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/pkm-obsidian-second-brain-hub/#pkm-obsidian-second-brain-hub-discord-20260913-1-2026-09-13</guid>
