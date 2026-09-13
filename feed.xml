@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Knowledge Management Hub</title>
+    <link>https://pkm-obsidian-second-brain-hub.vercel.app/</link>
+    <description>Verified community directory and updates.</description>
+    <lastBuildDate>Sun, 13 Sep 2026 08:29:25 GMT</lastBuildDate>
+    <atom:link href="https://pkm-obsidian-second-brain-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+    <item>
+      <title>Personal Knowledge Management Hub Initial Release</title>
+      <link>https://pkm-obsidian-second-brain-hub.vercel.app/</link>
+      <pubDate>Sun, 13 Sep 2026 08:29:25 GMT</pubDate>
+      <description>Initial collection of verified communities published.</description>
+    </item>
+  </channel>
+</rss>

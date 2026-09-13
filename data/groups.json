@@ -1,0 +1,510 @@
+[
+  {
+    "id": "personal-knowledge-management-hub-reddit-1",
+    "title": "r/Notion Database Architecture & Templates",
+    "platform": "Reddit",
+    "category": "Notion",
+    "memberCount": "320,000+ members",
+    "description": "The premier community for Notion power users: Formula 2.0, relational databases, rollups, and dashboard design.",
+    "joinUrl": "https://www.reddit.com/r/Notion/",
+    "tags": [
+      "notion",
+      "databases",
+      "productivity",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "personal-knowledge-management-hub-reddit-2",
+    "title": "r/ObsidianMD Markdown Knowledge Graphs",
+    "platform": "Reddit",
+    "category": "Obsidian",
+    "memberCount": "190,000+ members",
+    "description": "Local-first knowledge bases, Dataview queries, graph view navigation, canvas layouts, and community plugins.",
+    "joinUrl": "https://www.reddit.com/r/ObsidianMD/",
+    "tags": [
+      "obsidian",
+      "markdown",
+      "pkm",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "personal-knowledge-management-hub-reddit-3",
+    "title": "r/productivity Workflow Optimization",
+    "platform": "Reddit",
+    "category": "Productivity",
+    "memberCount": "2,800,000+ members",
+    "description": "Time blocking frameworks, task prioritization systems, deep work strategies, and personal operating models.",
+    "joinUrl": "https://www.reddit.com/r/productivity/",
+    "tags": [
+      "productivity",
+      "time-blocking",
+      "habits",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true
+  },
+  {
+    "id": "personal-knowledge-management-hub-reddit-4",
+    "title": "r/PKMS Personal Knowledge Management",
+    "platform": "Reddit",
+    "category": "PKM",
+    "memberCount": "60,000+ members",
+    "description": "Second Brain principles, Zettelkasten card index method, progressive summarization, and digital archiving.",
+    "joinUrl": "https://www.reddit.com/r/PKMS/",
+    "tags": [
+      "pkm",
+      "second-brain",
+      "zettelkasten",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-reddit-5",
+    "title": "r/GetOrganized Daily Routines & Systems",
+    "platform": "Reddit",
+    "category": "Organization",
+    "memberCount": "280,000+ members",
+    "description": "Practical organization strategies, physical and digital decluttering, filing hierarchies, and routines.",
+    "joinUrl": "https://www.reddit.com/r/GetOrganized/",
+    "tags": [
+      "organization",
+      "routines",
+      "systems",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-reddit-6",
+    "title": "r/Anki Spaced Repetition & Retention",
+    "platform": "Reddit",
+    "category": "Anki",
+    "memberCount": "180,000+ members",
+    "description": "Spaced repetition algorithms (SM-2, FSRS), cloze deletion strategies, flashcard automation, and retention science.",
+    "joinUrl": "https://www.reddit.com/r/Anki/",
+    "tags": [
+      "anki",
+      "spaced-repetition",
+      "learning",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-forum-7",
+    "title": "Obsidian Official Community Forum",
+    "platform": "Forum",
+    "category": "Obsidian",
+    "memberCount": "120,000+ members",
+    "description": "Official forum for Obsidian developers, theme designers, feature requests, and workflow showcases.",
+    "joinUrl": "https://forum.obsidian.md",
+    "tags": [
+      "obsidian",
+      "plugins",
+      "official",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-reddit-8",
+    "title": "r/zapier Automated Workflow Pipelines",
+    "platform": "Reddit",
+    "category": "Zapier",
+    "memberCount": "25,000+ members",
+    "description": "Multi-step webhooks, API filtering, automated database syncs between Notion, Airtable, and Slack.",
+    "joinUrl": "https://www.reddit.com/r/zapier/",
+    "tags": [
+      "zapier",
+      "automation",
+      "webhooks",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-reddit-9",
+    "title": "r/nocode Visual App & Portal Builders",
+    "platform": "Reddit",
+    "category": "No-Code",
+    "memberCount": "90,000+ members",
+    "description": "Building client portals, internal dashboards, and automated business tools without writing code.",
+    "joinUrl": "https://www.reddit.com/r/nocode/",
+    "tags": [
+      "nocode",
+      "portals",
+      "tools",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-reddit-10",
+    "title": "r/gtd Getting Things Done Framework",
+    "platform": "Reddit",
+    "category": "GTD",
+    "memberCount": "85,000+ members",
+    "description": "David Allen's GTD methodology: inbox zero, weekly reviews, context tagging, and project action lists.",
+    "joinUrl": "https://www.reddit.com/r/gtd/",
+    "tags": [
+      "gtd",
+      "inbox-zero",
+      "action-lists",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-discord-11",
+    "title": "The Programmer's Hangout Discord",
+    "platform": "Discord",
+    "category": "Programming",
+    "memberCount": "220,000+ members",
+    "description": "Multi-language developer Discord with dedicated productivity, tooling, and editor setup channels.",
+    "joinUrl": "https://discord.gg/programming",
+    "tags": [
+      "programming",
+      "tooling",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-discord-12",
+    "title": "Devcord Productivity & Code Discord",
+    "platform": "Discord",
+    "category": "Devcord",
+    "memberCount": "75,000+ members",
+    "description": "Active community of developers sharing IDE extensions, dotfiles, productivity setups, and scripts.",
+    "joinUrl": "https://discord.gg/devcord",
+    "tags": [
+      "devcord",
+      "dotfiles",
+      "extensions",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-discord-13",
+    "title": "Pegasus Systems & Founders Discord",
+    "platform": "Discord",
+    "category": "Founders",
+    "memberCount": "45,000+ members",
+    "description": "Digital operators sharing executive Notion operating systems, agency client dashboards, and SOPs.",
+    "joinUrl": "https://discord.gg/entrepreneur",
+    "tags": [
+      "founders",
+      "dashboards",
+      "sops",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-discord-14",
+    "title": "Businesscord Operations & Dashboards",
+    "platform": "Discord",
+    "category": "Business",
+    "memberCount": "35,000+ members",
+    "description": "Corporate productivity, KPI dashboards, project management systems, and team collaboration.",
+    "joinUrl": "https://discord.gg/business",
+    "tags": [
+      "business",
+      "kpis",
+      "management",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-forum-15",
+    "title": "Product Hunt Productivity Tools Launch",
+    "platform": "Forum",
+    "category": "Product Hunt",
+    "memberCount": "950,000+ members",
+    "description": "Discover and review the latest personal productivity apps, second brain tools, and browser extensions.",
+    "joinUrl": "https://www.producthunt.com",
+    "tags": [
+      "producthunt",
+      "apps",
+      "extensions",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-forum-16",
+    "title": "Hacker News Productivity & Systems",
+    "platform": "Forum",
+    "category": "Hacker News",
+    "memberCount": "5,000,000+ members",
+    "description": "High-signal discussions on note-taking architecture, plain text workflows, and digital minimalism.",
+    "joinUrl": "https://news.ycombinator.com",
+    "tags": [
+      "ycombinator",
+      "minimalism",
+      "workflows",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-reddit-17",
+    "title": "r/ChatGPT Productivity & Prompt Workflows",
+    "platform": "Reddit",
+    "category": "ChatGPT",
+    "memberCount": "6,500,000+ members",
+    "description": "Using custom GPTs, automated task generation, and prompt chains to supercharge personal productivity.",
+    "joinUrl": "https://www.reddit.com/r/ChatGPT/",
+    "tags": [
+      "chatgpt",
+      "automation",
+      "prompts",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-reddit-18",
+    "title": "r/PromptEngineering Knowledge Structuring",
+    "platform": "Reddit",
+    "category": "Prompting",
+    "memberCount": "140,000+ members",
+    "description": "Prompting techniques for synthesising lengthy meeting notes, formatting tables, and database extraction.",
+    "joinUrl": "https://www.reddit.com/r/PromptEngineering/",
+    "tags": [
+      "prompting",
+      "summarization",
+      "tables",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-discord-19",
+    "title": "OpenAI Workflow Automation Discord",
+    "platform": "Discord",
+    "category": "OpenAI",
+    "memberCount": "200,000+ members",
+    "description": "Developers connecting LLM APIs to Notion, Obsidian, Google Sheets, and personal knowledge bases.",
+    "joinUrl": "https://discord.gg/openai",
+    "tags": [
+      "openai",
+      "api",
+      "integration",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-discord-20",
+    "title": "Claude AI Second Brain Discord",
+    "platform": "Discord",
+    "category": "Claude",
+    "memberCount": "85,000+ members",
+    "description": "Using Claude Projects and Artifacts to organize document archives and execute deep research synthesis.",
+    "joinUrl": "https://discord.gg/anthropic",
+    "tags": [
+      "claude",
+      "projects",
+      "synthesis",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-telegram-21",
+    "title": "Python Scripts for Notion Automation",
+    "platform": "Telegram",
+    "category": "Scripts",
+    "memberCount": "85,000+ members",
+    "description": "Daily Python scripts using the official Notion API for automated database synchronization and backup.",
+    "joinUrl": "https://t.me/python_scripts",
+    "tags": [
+      "telegram",
+      "notion-api",
+      "python",
+      "scripts"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-discord-22",
+    "title": "Python Developers Official Discord",
+    "platform": "Discord",
+    "category": "Python",
+    "memberCount": "430,000+ members",
+    "description": "Real-time support with Python scripting, Notion SDK integrations, and automated schedulers.",
+    "joinUrl": "https://discord.gg/python",
+    "tags": [
+      "python",
+      "sdk",
+      "schedulers",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-telegram-23",
+    "title": "Web Developers Hub Telegram",
+    "platform": "Telegram",
+    "category": "Web Dev",
+    "memberCount": "48,000+ members",
+    "description": "Curated web developer news, browser productivity extensions, and workflow tips.",
+    "joinUrl": "https://t.me/webdev_hub",
+    "tags": [
+      "telegram",
+      "webdev",
+      "productivity"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-discord-24",
+    "title": "Tech Community Discord",
+    "platform": "Discord",
+    "category": "Tech",
+    "memberCount": "55,000+ members",
+    "description": "Discussions on software ergonomics, keyboard shortcuts, multi-monitor setups, and hardware.",
+    "joinUrl": "https://discord.gg/tech",
+    "tags": [
+      "tech",
+      "hardware",
+      "ergonomics",
+      "discord"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-telegram-25",
+    "title": "TechCrunch Productivity SaaS Releases",
+    "platform": "Telegram",
+    "category": "News",
+    "memberCount": "65,000+ members",
+    "description": "Updates on enterprise collaboration platforms, AI copilot launches, and workplace software.",
+    "joinUrl": "https://t.me/techcrunch",
+    "tags": [
+      "telegram",
+      "saas",
+      "collaboration",
+      "news"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-reddit-26",
+    "title": "r/freelance Client Portals & Invoicing",
+    "platform": "Reddit",
+    "category": "Freelancing",
+    "memberCount": "440,000+ members",
+    "description": "Independent consultants using Notion and Airtable for client onboarding, contracts, and invoicing.",
+    "joinUrl": "https://www.reddit.com/r/freelance/",
+    "tags": [
+      "freelance",
+      "onboarding",
+      "contracts",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-reddit-27",
+    "title": "r/workfromhome Async Workspace Setup",
+    "platform": "Reddit",
+    "category": "Remote",
+    "memberCount": "160,000+ members",
+    "description": "Remote office organization, async communication documentation, and digital workspace hygiene.",
+    "joinUrl": "https://www.reddit.com/r/workfromhome/",
+    "tags": [
+      "wfh",
+      "async",
+      "documentation",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-reddit-28",
+    "title": "r/remotework Remote Productivity Hub",
+    "platform": "Reddit",
+    "category": "Remote Work",
+    "memberCount": "180,000+ members",
+    "description": "Tools and techniques for staying focused, tracking async deliverables, and preventing burnout.",
+    "joinUrl": "https://www.reddit.com/r/remotework/",
+    "tags": [
+      "remotework",
+      "focus",
+      "async",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-forum-29",
+    "title": "Nomad List Remote Systems Forum",
+    "platform": "Forum",
+    "category": "Nomad",
+    "memberCount": "70,000+ members",
+    "description": "Global remote professionals sharing portable productivity setups, cloud backups, and systems.",
+    "joinUrl": "https://nomadlist.com",
+    "tags": [
+      "nomadlist",
+      "portable",
+      "systems",
+      "forum"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "personal-knowledge-management-hub-telegram-30",
+    "title": "AI Insights Telegram Stream",
+    "platform": "Telegram",
+    "category": "AI News",
+    "memberCount": "55,000+ members",
+    "description": "Real-time updates on emerging personal AI assistants, local models, and automation integrations.",
+    "joinUrl": "https://t.me/ai_insights",
+    "tags": [
+      "telegram",
+      "ai",
+      "assistants",
+      "news"
+    ],
+    "verified": true,
+    "featured": false
+  }
+]
