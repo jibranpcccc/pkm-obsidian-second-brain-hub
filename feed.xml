@@ -4,10 +4,17 @@
     <title>Personal Knowledge Management Hub</title>
     <link>https://pkm-obsidian-second-brain-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 14 Sep 2026 06:09:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:49:18 GMT</lastBuildDate>
     <atom:link href="https://pkm-obsidian-second-brain-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                <item>
+                    <item>
+      <title>📅 Today's Fresh Pick: r/programming International (Reddit)</title>
+      <link>https://www.reddit.com/r/programming/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/pkm-obsidian-second-brain-hub/#pkm-obsidian-second-brain-hub-reddit-20260914-1-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 10:49:18 GMT</pubDate>
+      <description>Newly verified community added to Personal Knowledge Management Hub: Major international hub for computer programming discussions, industry insights, and software development trends.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/Python Developer Community (Reddit)</title>
       <link>https://www.reddit.com/r/Python/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/pkm-obsidian-second-brain-hub/#pkm-obsidian-second-brain-hub-reddit-20260914-1-2026-09-14</guid>
