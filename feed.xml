@@ -4,10 +4,17 @@
     <title>Personal Knowledge Management Hub</title>
     <link>https://pkm-obsidian-second-brain-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 18 Sep 2026 06:19:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 06:05:00 GMT</lastBuildDate>
     <atom:link href="https://pkm-obsidian-second-brain-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                            <item>
+                                <item>
+      <title>📅 Today's Fresh Pick: Rust Language News &amp; Updates (Telegram)</title>
+      <link>https://t.me/rust_lang_news</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/pkm-obsidian-second-brain-hub/#pkm-obsidian-second-brain-hub-telegram-20260919-1-2026-09-19</guid>
+      <pubDate>Sat, 19 Sep 2026 06:05:00 GMT</pubDate>
+      <description>Newly verified community added to Personal Knowledge Management Hub: Real-time updates, releases, and deep-dive technical articles from the Rust systems ecosystem.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Rust Programming Language Discord (Discord)</title>
       <link>https://discord.gg/rust-lang</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/pkm-obsidian-second-brain-hub/#pkm-obsidian-second-brain-hub-discord-20260918-1-2026-09-18</guid>
