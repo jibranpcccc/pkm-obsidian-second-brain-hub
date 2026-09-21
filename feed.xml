@@ -4,10 +4,17 @@
     <title>Personal Knowledge Management Hub</title>
     <link>https://pkm-obsidian-second-brain-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 20 Sep 2026 06:07:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 06:05:02 GMT</lastBuildDate>
     <atom:link href="https://pkm-obsidian-second-brain-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                    <item>
+                                        <item>
+      <title>📅 Today's Fresh Pick: Reactiflux Discord Community (Discord)</title>
+      <link>https://discord.gg/reactiflux</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/pkm-obsidian-second-brain-hub/#pkm-obsidian-second-brain-hub-discord-20260921-1-2026-09-21</guid>
+      <pubDate>Mon, 21 Sep 2026 06:05:02 GMT</pubDate>
+      <description>Newly verified community added to Personal Knowledge Management Hub: The largest community of React, React Native, and full-stack JavaScript developers on Discord.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/javascript Global Hub (Reddit)</title>
       <link>https://www.reddit.com/r/javascript/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/pkm-obsidian-second-brain-hub/#pkm-obsidian-second-brain-hub-reddit-20260920-1-2026-09-20</guid>
