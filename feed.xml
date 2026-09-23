@@ -4,10 +4,17 @@
     <title>Personal Knowledge Management Hub</title>
     <link>https://pkm-obsidian-second-brain-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 22 Sep 2026 06:05:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 06:05:07 GMT</lastBuildDate>
     <atom:link href="https://pkm-obsidian-second-brain-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                            <item>
+                                                <item>
+      <title>📅 Today's Fresh Pick: Go Language Official Discord (Discord)</title>
+      <link>https://discord.gg/golang</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/pkm-obsidian-second-brain-hub/#pkm-obsidian-second-brain-hub-discord-20260923-1-2026-09-23</guid>
+      <pubDate>Wed, 23 Sep 2026 06:05:07 GMT</pubDate>
+      <description>Newly verified community added to Personal Knowledge Management Hub: Real-time Go developers server offering technical support, library showcase, and distributed systems discussions.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/golang Backend Hub (Reddit)</title>
       <link>https://www.reddit.com/r/golang/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/pkm-obsidian-second-brain-hub/#pkm-obsidian-second-brain-hub-reddit-20260922-1-2026-09-22</guid>
