@@ -4,10 +4,17 @@
     <title>Personal Knowledge Management Hub</title>
     <link>https://pkm-obsidian-second-brain-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 24 Sep 2026 06:05:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 06:05:18 GMT</lastBuildDate>
     <atom:link href="https://pkm-obsidian-second-brain-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                    <item>
+                                                        <item>
+      <title>📅 Today's Fresh Pick: TypeScript Community Discord (Discord)</title>
+      <link>https://discord.gg/typescript</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/pkm-obsidian-second-brain-hub/#pkm-obsidian-second-brain-hub-discord-20260925-1-2026-09-25</guid>
+      <pubDate>Fri, 25 Sep 2026 06:05:18 GMT</pubDate>
+      <description>Newly verified community added to Personal Knowledge Management Hub: Active community for advanced TypeScript types, generics, compiler plugins, and framework integrations.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/typescript Architecture (Reddit)</title>
       <link>https://www.reddit.com/r/typescript/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/pkm-obsidian-second-brain-hub/#pkm-obsidian-second-brain-hub-reddit-20260924-1-2026-09-24</guid>
