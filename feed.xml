@@ -4,10 +4,17 @@
     <title>Personal Knowledge Management Hub</title>
     <link>https://pkm-obsidian-second-brain-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 29 Sep 2026 06:05:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:19:51 GMT</lastBuildDate>
     <atom:link href="https://pkm-obsidian-second-brain-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                <item>
+                                                                    <item>
+      <title>📅 Today's Fresh Pick: Next.js Developers Discord (Discord)</title>
+      <link>https://discord.gg/nextjs</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/pkm-obsidian-second-brain-hub/#pkm-obsidian-second-brain-hub-discord-20260930-1-2026-09-30</guid>
+      <pubDate>Wed, 30 Sep 2026 06:19:51 GMT</pubDate>
+      <description>Newly verified community added to Personal Knowledge Management Hub: Official community Discord for Vercel Next.js developers, Server Components, and App Router architectures.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/webdev Builders Hub (Reddit)</title>
       <link>https://www.reddit.com/r/webdev/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/pkm-obsidian-second-brain-hub/#pkm-obsidian-second-brain-hub-reddit-20260929-1-2026-09-29</guid>
