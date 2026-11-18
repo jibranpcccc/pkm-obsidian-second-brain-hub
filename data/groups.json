@@ -1,5 +1,24 @@
 [
   {
+    "id": "personal-knowledge-management-hub-reddit-1",
+    "title": "r/Notion Database Architecture & Templates",
+    "platform": "Reddit",
+    "category": "Notion",
+    "memberCount": "320,000+ members",
+    "description": "The premier community for Notion power users: Formula 2.0, relational databases, rollups, and dashboard design.",
+    "joinUrl": "https://www.reddit.com/r/Notion/",
+    "tags": [
+      "notion",
+      "databases",
+      "productivity",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-18"
+  },
+  {
     "id": "pkm-obsidian-second-brain-hub-reddit-20261011-1",
     "title": "r/linux Open Source OS",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -473,24 +492,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "personal-knowledge-management-hub-reddit-1",
-    "title": "r/Notion Database Architecture & Templates",
-    "platform": "Reddit",
-    "category": "Notion",
-    "memberCount": "320,000+ members",
-    "description": "The premier community for Notion power users: Formula 2.0, relational databases, rollups, and dashboard design.",
-    "joinUrl": "https://www.reddit.com/r/Notion/",
-    "tags": [
-      "notion",
-      "databases",
-      "productivity",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "personal-knowledge-management-hub-reddit-2",
