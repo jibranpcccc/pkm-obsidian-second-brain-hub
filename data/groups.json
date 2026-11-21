@@ -1,5 +1,24 @@
 [
   {
+    "id": "personal-knowledge-management-hub-reddit-4",
+    "title": "r/PKMS Personal Knowledge Management",
+    "platform": "Reddit",
+    "category": "PKM",
+    "memberCount": "60,000+ members",
+    "description": "Second Brain principles, Zettelkasten card index method, progressive summarization, and digital archiving.",
+    "joinUrl": "https://www.reddit.com/r/PKMS/",
+    "tags": [
+      "pkm",
+      "second-brain",
+      "zettelkasten",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-21"
+  },
+  {
     "id": "personal-knowledge-management-hub-reddit-3",
     "title": "r/productivity Workflow Optimization",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-20"
   },
   {
@@ -530,24 +549,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "personal-knowledge-management-hub-reddit-4",
-    "title": "r/PKMS Personal Knowledge Management",
-    "platform": "Reddit",
-    "category": "PKM",
-    "memberCount": "60,000+ members",
-    "description": "Second Brain principles, Zettelkasten card index method, progressive summarization, and digital archiving.",
-    "joinUrl": "https://www.reddit.com/r/PKMS/",
-    "tags": [
-      "pkm",
-      "second-brain",
-      "zettelkasten",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "personal-knowledge-management-hub-reddit-5",
