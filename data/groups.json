@@ -1,5 +1,24 @@
 [
   {
+    "id": "personal-knowledge-management-hub-reddit-5",
+    "title": "r/GetOrganized Daily Routines & Systems",
+    "platform": "Reddit",
+    "category": "Organization",
+    "memberCount": "280,000+ members",
+    "description": "Practical organization strategies, physical and digital decluttering, filing hierarchies, and routines.",
+    "joinUrl": "https://www.reddit.com/r/GetOrganized/",
+    "tags": [
+      "organization",
+      "routines",
+      "systems",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-22"
+  },
+  {
     "id": "personal-knowledge-management-hub-reddit-4",
     "title": "r/PKMS Personal Knowledge Management",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-21"
   },
   {
@@ -549,24 +568,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "personal-knowledge-management-hub-reddit-5",
-    "title": "r/GetOrganized Daily Routines & Systems",
-    "platform": "Reddit",
-    "category": "Organization",
-    "memberCount": "280,000+ members",
-    "description": "Practical organization strategies, physical and digital decluttering, filing hierarchies, and routines.",
-    "joinUrl": "https://www.reddit.com/r/GetOrganized/",
-    "tags": [
-      "organization",
-      "routines",
-      "systems",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "personal-knowledge-management-hub-reddit-6",
