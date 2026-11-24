@@ -1,5 +1,24 @@
 [
   {
+    "id": "personal-knowledge-management-hub-forum-7",
+    "title": "Obsidian Official Community Forum",
+    "platform": "Forum",
+    "category": "Obsidian",
+    "memberCount": "120,000+ members",
+    "description": "Official forum for Obsidian developers, theme designers, feature requests, and workflow showcases.",
+    "joinUrl": "https://forum.obsidian.md",
+    "tags": [
+      "obsidian",
+      "plugins",
+      "official",
+      "forum"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-24"
+  },
+  {
     "id": "personal-knowledge-management-hub-reddit-6",
     "title": "r/Anki Spaced Repetition & Retention",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-23"
   },
   {
@@ -587,24 +606,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "personal-knowledge-management-hub-forum-7",
-    "title": "Obsidian Official Community Forum",
-    "platform": "Forum",
-    "category": "Obsidian",
-    "memberCount": "120,000+ members",
-    "description": "Official forum for Obsidian developers, theme designers, feature requests, and workflow showcases.",
-    "joinUrl": "https://forum.obsidian.md",
-    "tags": [
-      "obsidian",
-      "plugins",
-      "official",
-      "forum"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "personal-knowledge-management-hub-reddit-8",
