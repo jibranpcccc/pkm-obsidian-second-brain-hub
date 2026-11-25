@@ -1,5 +1,24 @@
 [
   {
+    "id": "personal-knowledge-management-hub-reddit-8",
+    "title": "r/zapier Automated Workflow Pipelines",
+    "platform": "Reddit",
+    "category": "Zapier",
+    "memberCount": "25,000+ members",
+    "description": "Multi-step webhooks, API filtering, automated database syncs between Notion, Airtable, and Slack.",
+    "joinUrl": "https://www.reddit.com/r/zapier/",
+    "tags": [
+      "zapier",
+      "automation",
+      "webhooks",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-25"
+  },
+  {
     "id": "personal-knowledge-management-hub-forum-7",
     "title": "Obsidian Official Community Forum",
     "platform": "Forum",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-24"
   },
   {
@@ -606,24 +625,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "personal-knowledge-management-hub-reddit-8",
-    "title": "r/zapier Automated Workflow Pipelines",
-    "platform": "Reddit",
-    "category": "Zapier",
-    "memberCount": "25,000+ members",
-    "description": "Multi-step webhooks, API filtering, automated database syncs between Notion, Airtable, and Slack.",
-    "joinUrl": "https://www.reddit.com/r/zapier/",
-    "tags": [
-      "zapier",
-      "automation",
-      "webhooks",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "personal-knowledge-management-hub-reddit-9",

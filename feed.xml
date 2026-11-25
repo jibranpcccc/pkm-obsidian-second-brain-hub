@@ -4,10 +4,17 @@
     <title>Personal Knowledge Management Hub</title>
     <link>https://pkm-obsidian-second-brain-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 24 Nov 2026 07:36:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 07:24:50 GMT</lastBuildDate>
     <atom:link href="https://pkm-obsidian-second-brain-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: r/zapier Automated Workflow Pipelines (Reddit)</title>
+      <link>https://www.reddit.com/r/zapier/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/pkm-obsidian-second-brain-hub/#personal-knowledge-management-hub-reddit-8-2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 07:24:50 GMT</pubDate>
+      <description>Newly verified community added to Personal Knowledge Management Hub: Multi-step webhooks, API filtering, automated database syncs between Notion, Airtable, and Slack.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Obsidian Official Community Forum (Forum)</title>
       <link>https://forum.obsidian.md</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/pkm-obsidian-second-brain-hub/#personal-knowledge-management-hub-forum-7-2026-11-24</guid>
@@ -173,13 +180,6 @@
       <link>https://www.reddit.com/r/linux/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/pkm-obsidian-second-brain-hub/#pkm-obsidian-second-brain-hub-reddit-20261011-1-2026-10-26</guid>
       <pubDate>Mon, 26 Oct 2026 06:51:54 GMT</pubDate>
-      <description>Newly verified community added to Personal Knowledge Management Hub: All aspects of the GNU/Linux operating system, kernel developments, desktop environments, and server administration.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/linux Open Source OS (Reddit)</title>
-      <link>https://www.reddit.com/r/linux/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/pkm-obsidian-second-brain-hub/#pkm-obsidian-second-brain-hub-reddit-20261011-1-2026-10-25</guid>
-      <pubDate>Sun, 25 Oct 2026 06:05:33 GMT</pubDate>
       <description>Newly verified community added to Personal Knowledge Management Hub: All aspects of the GNU/Linux operating system, kernel developments, desktop environments, and server administration.</description>
     </item>
   </channel>
